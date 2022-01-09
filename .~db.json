@@ -1,0 +1,103 @@
+{
+  "comics": [
+    {
+      "id": 1,
+      "author": "Ade Capone",
+      "artist": "Gallieno Ferri",
+      "hero": "Zagor",
+      "issue": 296,
+      "issueName": "Sveti brijeg",
+      "published": 2019,
+      "story": "Tisuću lica straha",
+      "spans": "Početak u 296, kraj u 298"
+    },
+    {
+      "id": 2,
+      "author": "Marcello Toninelli",
+      "artist": "Franco Donatelli",
+      "hero": "Zagor",
+      "issue": 313,
+      "issueName": "Veliki mrak",
+      "published": 2020,
+      "story": "Sljepilo",
+      "spans": "Početak u 313, kraj u 314"
+    },
+    {
+      "id": 3,
+      "author": "Claudio Nizzi",
+      "artist": "José Ortiz",
+      "hero": "Tex",
+      "issue": 172,
+      "issueName": "Vražja vrata",
+      "published": 2020,
+      "story": "Blago iz rudnika",
+      "spans": "Početak u 172, kraj u 173"
+    },
+    {
+      "id": 4,
+      "author": "Moreno Burattini",
+      "artist": "Gallieno Ferri",
+      "hero": "Zagor",
+      "issue": 326,
+      "issueName": "Tajanstveni samostan",
+      "published": 2021,
+      "story": "Tajanstveni samostan",
+      "spans": "Početak u 325, kraj u 327"
+    },
+    {
+      "id": 6,
+      "author": "Carlo Ambrosini",
+      "artist": "Carlo Ambrosini",
+      "hero": "Dylan Dog",
+      "issue": 177,
+      "issueName": "Kamene suze",
+      "published": 2020,
+      "story": "Kamene suze",
+      "spans": "Početak i kraj u 177"
+    },
+    {
+      "id": 8,
+      "author": "Mauro Boselli",
+      "artist": "Alfonso Font",
+      "hero": "Tex",
+      "issue": 170,
+      "issueName": "Colorado Belle",
+      "published": 2020,
+      "story": "Colorado Belle",
+      "spans": "Početak u 170, kraj u 171"
+    },
+    {
+      "id": 9,
+      "author": "Mauro Boselli",
+      "artist": "Alfonso Font",
+      "hero": "Tex",
+      "issue": 170,
+      "issueName": "Colorado Belle",
+      "published": 2020,
+      "story": "Colorado Belle",
+      "spans": "Početak u 170, kraj u 171"
+    },
+    {
+      "author": "Zagor",
+      "artist": "dilan",
+      "hero": "23",
+      "issue": 32,
+      "issueName": "23",
+      "published": 32,
+      "story": "32",
+      "span": "23",
+      "id": 11
+    },
+    {
+      "author": "Dylan dog",
+      "artist": "hhhhhhh",
+      "hero": "aaaaaaaaa",
+      "issue": 35,
+      "issueName": "fads",
+      "published": 2019,
+      "story": "ttttttt",
+      "span": "44444444",
+      "id": 12
+    }
+  ]
+}
